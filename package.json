@@ -1,0 +1,17 @@
+{
+  "name": "echarts-animation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "live-server"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "echarts": "^5.3.2"
+  },
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
